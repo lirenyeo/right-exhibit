@@ -1,0 +1,36 @@
+/*
+  #00aba0
+  #384658
+*/
+
+ul#menu li a{
+  color: #00aba0
+}
+
+ul#menu li.active a {
+  color: #384658;
+}
+
+#home .fixed {
+  /* background-color: #384658 !important; */
+}
+
+#about .line2 {
+  background: #384658;
+}
+
+#about .container h3 {
+  color: #00aba0;
+}
+
+#test i {
+  color: #00aba0;
+}
+
+#test h3 {
+  color: #00aba0;
+}
+
+#test p {
+  color: #384658;
+}
